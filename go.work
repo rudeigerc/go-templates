@@ -1,0 +1,6 @@
+go 1.21
+
+use (
+    ./templates/general
+    ./templates/kubectl-plugin
+)
